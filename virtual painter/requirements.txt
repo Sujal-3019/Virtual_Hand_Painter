@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+numpy
+cv2
+os
+numpy
