@@ -31,10 +31,17 @@ Virtual Painter is a real-time interactive drawing application powered by **Medi
 ## 🛠 Installation 🛠
 
 1. 📂 Clone the repo  
+  ```
+git clone <repository-url>
+```
 2. 📦 Install dependencies:
-```pip install -r requirements.txt```
-3. ▶️ Run the app:
-``python vp.py``
+```
+pip install -r requirements.txt
+```
+4. ▶️ Run the app:
+```
+python vp.py
+```
 
 ---
 
