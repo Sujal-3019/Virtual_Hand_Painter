@@ -57,3 +57,7 @@ The app uses MediaPipe’s ML model to detect hand landmarks, interprets finger 
 ---
 
 *Happy Painting!* 🎨🖌️
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujal-3019&label=Project%20visitors&color=eb4d4b&style=flat" alt="Visitors"/>
+</p>
